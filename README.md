@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-
-**JosephPotashnik/josephpotashnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Unsupervised Grammar Induction
-- 🌱 I’m currently learning ... Fullstack
+- 🔭 I’m currently working on ... Unsupervised Grammar Induction. A small taste could be found <a href="https://arxiv.org/abs/2312.15321">here</a>.
+- But see also my fun projects of Density-based Clustering below!
+- 
+- 🌱 I’m currently learning ... Fullstack and front end.
+- 
 - 😄 Pronouns: ... He/Him  
-- ⚡ Fun fact: ... 
