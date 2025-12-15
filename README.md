@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joseph-potashnik-a3589a125/)
 
-Backend Software Engineer with 10+ years of C#/.NET experience, specializing in algorithmic problem-solving and RESTful API design. Strong background in building high-performance systems and computational algorithms. Currently expanding full-stack capabilities with TypeScript and modern web frameworks.
+Backend Software Engineer with 10+ years of C#/.NET experience. Strong background in building high-performance systems and computational algorithms. Currently expanding full-stack capabilities with TypeScript and modern web frameworks.
 
 ## 🔭 Current Work
 
