@@ -8,9 +8,9 @@ I am an independent researcher and software engineer based in London, with a PhD
 
 ### Greedy Grammar Induction with Indirect Negative Evidence
 
-A computational-linguistics / machine-learning project on unsupervised grammar induction from positive evidence, using grammar-shape constraints and indirect negative evidence to guide search.
+A computational linguistics and machine learning project on unsupervised grammar induction from positive evidence, using grammar-shape constraints and indirect negative evidence to guide search.
 
-- Preprint: https://arxiv.org/abs/2312.15321
+- Preprint: [arXiv:2312.15321](https://arxiv.org/abs/2312.15321)
 - Areas: grammar induction, computational linguistics, formal languages, parsing, unsupervised learning
 - Implementation: C#/.NET, parallel search, Earley/CKY-style parsing, grammar equivalence checks
 
