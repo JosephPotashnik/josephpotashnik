@@ -1,62 +1,41 @@
-# Hi there 👋
+# Joseph Potashnik
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joseph-potashnik-a3589a125/)
+I work on grammar induction, parsing, and computational models of linguistic structure. My current research studies how indirect negative evidence can guide greedy search over bounded context-free grammar hypothesis spaces.
 
-Backend Software Engineer with 10+ years of C#/.NET experience. Strong background in building high-performance systems and computational algorithms. Currently expanding full-stack capabilities with TypeScript and modern web frameworks.
+I am an independent researcher and software engineer based in London, with a PhD in Linguistics from Tel Aviv University and a BSc in Physics and Computer Science. My background combines generative linguistics, formal language theory, machine learning, and high-performance research software.
 
-## 🔭 Current Work
+## Current Research
 
-**Software Developer** @ [Founders and Coders](https://www.foundersandcoders.com/), London  
-Building full-stack applications using TypeScript, React, Next.js, and Express.js. Implementing CI/CD workflows, OpenAPI integrations, and modern development practices.
+### Greedy Grammar Induction with Indirect Negative Evidence
 
-## 🚀 Featured Projects
+A computational-linguistics / machine-learning project on unsupervised grammar induction from positive evidence, using grammar-shape constraints and indirect negative evidence to guide search.
 
-### Grammar Induction Algorithm
-High-performance computational linguistics research implementing a novel grammar induction algorithm in **C# (.NET 10)** with parallel processing and optimization for exponential search spaces.  
-📄 [Research Preprint](https://arxiv.org/abs/2312.15321)
+- Preprint: https://arxiv.org/abs/2312.15321
+- Areas: grammar induction, computational linguistics, formal languages, parsing, unsupervised learning
+- Implementation: C#/.NET, parallel search, Earley/CKY-style parsing, grammar equivalence checks
 
-### Density-Based Clustering
-Interactive clustering algorithm visualization with **React** frontend and **ASP.NET Core** REST API. Implements Rodriguez & Laio's "Fast Clustering by Density Peaks" algorithm.  
-🔗 [Live Demo](http://dp-clustering.s3-website.eu-north-1.amazonaws.com/) | See pinned repos below
+## Selected Projects
 
 ### Earley Parser
-Top-down parser capable of parsing any context-free grammar in cubic time. Full-stack implementation with **ASP.NET Core** backend and **React/TypeScript** frontend.  
-🔗 [Live Demo](https://cosmic-marshmallow-19b8ab.netlify.app/) | See pinned repos below
 
-## 💻 Tech Stack
+A parser for context-free grammars, with a full-stack demonstration interface.
 
-**Primary:**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+### Density-Based Clustering
 
-**Full-Stack:**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+Implementation and visualization of Rodriguez and Laio’s density-peaks clustering algorithm.
 
-**Also Proficient:**  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### PhD Dissertation
 
-## 🌱 Currently Learning
-- Full-stack development with Next.js and Svelte
-- AI API engineering and structured outputs
-- CI/CD workflows and DevOps practices
-- Modern database systems (PostgreSQL, MongoDB)
+Scalarity and unaccusativity at the lexicon-syntax interface.
 
-## 📍 About Me
-- 🏢 Based in **London**, open to hybrid/in-office roles
-- 🎯 Seeking **Backend Software Engineer** or **Full-Stack Developer** positions
-- 🎧 I wear two cochlear implants - prefer in-office collaboration
-- 💡 Passionate about algorithmic problem-solving and theoretical computer science
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/joseph-potashnik-a3589a125/)
+## Background
 
-## 📊 GitHub Stats
+- PhD Linguistics, Tel Aviv University
+- MA Linguistics, summa cum laude
+- BSc Physics and Computer Science
+- Senior software engineering experience in high-performance industrial systems
 
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephPotashnik&show_icons=true&theme=default&hide=contribs)
+## Contact
 
----
-
-⭐️ Check out my pinned repositories below for live demos and source code!
+- GitHub: https://github.com/JosephPotashnik
+- LinkedIn: https://www.linkedin.com/in/joseph-potashnik-a3589a125/
