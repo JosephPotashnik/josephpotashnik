@@ -6,13 +6,14 @@ I am an independent researcher and software engineer based in London, with a PhD
 
 ## Current Research
 
-### Greedy Grammar Induction with Indirect Negative Evidence
+### [Greedy Grammar Induction with Indirect Negative Evidence](https://github.com/JosephPotashnik/GreedyGrammarInduction-JMLR)
 
 A computational linguistics and machine learning project on unsupervised grammar induction from positive evidence, using grammar-shape constraints and indirect negative evidence to guide search.
 
-- Preprint: [arXiv:2312.15321](https://arxiv.org/abs/2312.15321)
+- Paper: [arXiv:2312.15321](https://arxiv.org/abs/2312.15321)
+- Code: [public reproducibility repository](https://github.com/JosephPotashnik/GreedyGrammarInduction-JMLR)
 - Areas: grammar induction, computational linguistics, formal languages, parsing, unsupervised learning
-- Implementation: C#/.NET, parallel search, Earley/CKY-style parsing, grammar equivalence checks
+- Implementation: C#/.NET, parallel search, Earley/CKY-style parsing, grammar equivalence
 
 ## Selected Projects
 
